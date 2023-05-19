@@ -3,7 +3,7 @@
 ## Project build configuration
 ##
 ##------------------------------
-APP_NAME = project_name
+APP_NAME = validator
 APP_BINARY = ../bin/${APP_NAME}
 MAIN_ENTRY = ../src/app
 

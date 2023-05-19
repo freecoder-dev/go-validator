@@ -1,3 +1,3 @@
-module project_name
+module validator
 
 go 1.19
